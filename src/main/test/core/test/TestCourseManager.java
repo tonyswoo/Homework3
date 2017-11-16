@@ -110,6 +110,4 @@ public class TestCourseManager {
 		assertEquals(1, this.courseManager.getClassCapacity("ECS161", 2017));
 	}
 	
-
-	
 }
